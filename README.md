@@ -1,0 +1,1 @@
+<img src="https://cdn.discordapp.com/attachments/1209916435980091492/1210559017282441316/banner.jpg?ex=65eafff0&is=65d88af0&hm=c827a2c8a8bce50d8017e2e8826f104272f8d8be5c974c63e3b2c5a72813cd18&" alt="Image" class="center">
