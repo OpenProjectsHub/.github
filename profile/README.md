@@ -1,1 +1,1 @@
-<img src="https://cdn.discordapp.com/attachments/1209916435980091492/1210853067159769099/Banner.jpg?ex=65ec11cb&is=65d99ccb&hm=fe88d279754e838cc44f20157015240308b88518cf00f0537ea85621f0cd3c69&" alt="Image" class="center">
+<img src="https://github.com/OpenProjectsHub/.github/blob/main/openprojecthub.jpg" alt="Image" class="center">
